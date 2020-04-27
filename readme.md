@@ -10,3 +10,6 @@ XAMPP(PHP, MySQL)を使用してオンラインゲームのボイスチャット
 
 ## Author
 gmnori (https://twitter.com/gmnori)
+
+## image
+![demo.png](https://github.com/gmnori/dbd_board/blob/master/img/demo.png?raw=true)
